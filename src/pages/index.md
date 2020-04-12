@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 島原半島エール飯
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 美味い飯はコロナに負けない
 mainpitch:
   title: Why Kaldi
   description: >
